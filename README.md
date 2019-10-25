@@ -1,15 +1,21 @@
                                        =================
-                                        PS4 LibHomebrew
+                                        PS4 LibShitHomebrew
                                        =================
 
 ![image1](https://user-images.githubusercontent.com/1683181/67478429-57aeac00-f65c-11e9-9c64-4370cb01539e.png)
 ![image2](https://user-images.githubusercontent.com/1683181/45920389-9d220800-bea3-11e8-9ea6-56d9412584b4.png)
-![image3](https://user-images.githubusercontent.com/1683181/45920409-de1a1c80-bea3-11e8-84b1-957bd7ce8f54.png)
+
 
 ## Note to the Scene:
-     LightningMods is the biggesd Faker this Scene has ever seen. Still he tries to take my work and present it as his by just to delete
-     the Readme and replace some files. Just that he then can claim "I made that".
-     PS4 LibHomebrew was, is and will ever be a work of Harald Swoboda, a student of the HTL Ottakring aka cfwprpht.
+    Cfwprophet is not only a confirmed racist but tries to belittle any person just tryying to learn coding
+    he alway once before adding FAKE keys to the devwiki, i should also mention the MANY probelms to with his
+    "Libhb" including but not limited too, buffer over flow(s), crashing, shit graphics and imo irrelevant CPP features
+    that would otherwise be helpful
+    
+
+## NOTE to CFWProphet
+   i added a special for you "Fuck_You.fu" its a file made by scratch lmao since you said i cant make anything by myself
+   i think all the shit you smoked gave you brain damage, also iv been coding alot this year even learning new api(s) and let every        acompalishment i make be a Fuck You.... to you
 
 ## What's that ?
      A Homebrew Library based on the Official SDK.
