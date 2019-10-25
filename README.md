@@ -2,9 +2,6 @@
                                         PS4 LibShitHomebrew
                                        =================
 
-![image1](https://user-images.githubusercontent.com/1683181/67478429-57aeac00-f65c-11e9-9c64-4370cb01539e.png)
-![image2](https://user-images.githubusercontent.com/1683181/45920389-9d220800-bea3-11e8-9ea6-56d9412584b4.png)
-
 
 ## Note to the Scene:
     Cfwprophet is not only a confirmed racist but tries to belittle any person just tryying to learn coding
@@ -13,7 +10,8 @@
     that would otherwise be helpful
     
 
-## NOTE to CFWProphet
+## NOTE to CFWProphet:
+
    i added a special for you "Fuck_You.fu" its a file made by scratch lmao since you said i cant make anything by myself
    i think all the shit you smoked gave you brain damage, also iv been coding alot this year even learning new api(s) and let every        acompalishment i make be a Fuck You.... to you
 
